@@ -13,5 +13,8 @@ public class BaseClass {
 		driver.manage().window().maximize();
 		return driver;
 	}
+	public void name() {
+		System.out.println("i am in base class");
+	}
 
 }
