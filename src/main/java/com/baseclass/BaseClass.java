@@ -14,7 +14,11 @@ public class BaseClass {
 		return driver;
 	}
 	public void name() {
-		System.out.println("i am in base class");
+		
+		int a=10;
+		if (a==10) {
+			System.out.println("Pass");
+		}
 	}
 
 }
