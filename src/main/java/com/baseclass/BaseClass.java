@@ -13,12 +13,4 @@ public class BaseClass {
 		driver.manage().window().maximize();
 		return driver;
 	}
-	public void name() {
-		
-		int a=10;
-		if (a==10) {
-			System.out.println("Pass");
-		}
-	}
-
 }
