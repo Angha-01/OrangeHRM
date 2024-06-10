@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Smokte Testing">
+    <classes>
+      <class name="com.tests.MyCalclulator"/>
+    </classes>
+    
+  </test> <!-- Test -->
+  
+  <test name="Sanity Testing">
+    <classes>
+      <class name="com.tests.LoginTest"/>
+    </classes>
+    
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
